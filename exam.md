@@ -37,11 +37,15 @@ You will need to conduct comprehensive quality assurance testing on the shopping
 - Provide reproduction steps and environmental information.
 - Classify defects by priority.
 
-### 5. Test Report
+### 5. auto testing
+- Create UI auto testing, you should at least test 1 part of that page
+  
+### 6. Test Report
 - Summarize the test execution results.
 - Provide test coverage analysis.
 - Summarize the main findings and suggestions.
 - Evaluate the overall quality of the system.
+
 
 ## Submission Requirements
 Please provide the following documents:
